@@ -12,3 +12,5 @@
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2397fc&section=footer&reversal=true" width="100%"/>
