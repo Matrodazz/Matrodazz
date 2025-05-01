@@ -1,7 +1,7 @@
 ## E aí, tudo bem? 👋
 
 <a href="https://storyset.com/people" title="People illustrations by Storyset">
-  <img align="right" src="https://cdn.discordapp.com/attachments/864563472016080946/1367631886423425065/Innovation-amico.png?ex=681549f3&is=6813f873&hm=f1eb291d3075e6b7e729653e213084420c9718bb0c945096a529e5db2ddbd745&" alt="Eating donuts Disproportionate Illustrations" width=35% height=45% />
+  <img align="right" src="https://media.discordapp.net/attachments/864563472016080946/1367632647639269386/sail_boat-cuate.png?ex=68154aa8&is=6813f928&hm=289f9e7d42349a8e2a83326481bfdcd4fb3b7c09a95a921c8d2084760bd1e4b3&=&format=webp&quality=lossless&width=930&height=930" alt="Eating donuts Disproportionate Illustrations" width=35% height=45% />
 </a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrodazz&layout=compact&theme=algolia)](https://github.com/matrodazz/github-readme-stats)
