@@ -2,7 +2,7 @@
 Atuo como Desenvolvedor Web/Front-end Junior com paixão por transformar ideias em experiências digitais intuitivas, acessíveis e visualmente impactantes.
 
 <a href="https://storyset.com/people" title="People illustrations by Storyset">
-  <img align="right" src="https://media.discordapp.net/attachments/864563472016080946/1367632647639269386/sail_boat-cuate.png?ex=68154aa8&is=6813f928&hm=289f9e7d42349a8e2a83326481bfdcd4fb3b7c09a95a921c8d2084760bd1e4b3&=&format=webp&quality=lossless&width=930&height=930" alt="Eating donuts Disproportionate Illustrations" width=35% height=45% />
+  <img align="right" src="https://media.discordapp.net/attachments/864563472016080946/1367632647639269386/sail_boat-cuate.png?ex=68154aa8&is=6813f928&hm=289f9e7d42349a8e2a83326481bfdcd4fb3b7c09a95a921c8d2084760bd1e4b3&=&format=webp&quality=lossless&width=930&height=930" alt="Illustrations" width=35% height=45% />
 </a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrodazz&layout=compact&theme=algolia)](https://github.com/matrodazz/)
